@@ -109,7 +109,7 @@ export default function Contact({ contact, profile }) {
               </a>
             </p>
             <p className="mt-4 text-sm text-muted">
-              Based in {profile.location}. Available for remote and hybrid roles.
+              Based in {profile.location}. Available for remote roles.
             </p>
           </div>
         </div>
