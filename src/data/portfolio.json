@@ -1,0 +1,156 @@
+{
+  "profile": {
+    "name": "Ognjen Perisic",
+    "title": "Cybersecurity Evidence Portfolio",
+    "intro": "Structured evidence of SOC projects, incident triage, phishing investigations, threat intelligence, and practical security operations work.",
+    "about": "This portfolio demonstrates documented SOC capability through practical investigations, technical write-ups, and project evidence. It is organized to show problem-solving, analytical thinking, and security insight across phishing detection, email forensics, SIEM operations, incident response, ITSM, networking, and threat hunting.",
+    "location": "Remote",
+    "email": "99ognjen@gmail.com",
+    "availability": "Open to SOC opportunities",
+    "social": [
+      { "platform": "GitHub", "url": "https://github.com/perisicognjen", "icon": "github" },
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/ognjen99-perisic", "icon": "linkedin" }
+    ]
+  },
+  "cv": {
+    "filename": "",
+    "label": "Download Resume"
+  },
+  "skills": [
+    { "name": "Phishing Analysis", "level": 88, "category": "Threat Detection" },
+    { "name": "Email Header Forensics", "level": 85, "category": "Threat Detection" },
+    { "name": "Microsoft Sentinel", "level": 82, "category": "SIEM" },
+    { "name": "Incident Triage", "level": 86, "category": "SOC Operations" },
+    { "name": "Incident Response", "level": 80, "category": "SOC Operations" },
+    { "name": "Suricata", "level": 74, "category": "Network Security" },
+    { "name": "Wireshark", "level": 78, "category": "Network Security" },
+    { "name": "Nmap", "level": 76, "category": "Network Security" },
+    { "name": "Nessus", "level": 72, "category": "Vulnerability Management" },
+    { "name": "Threat Intelligence", "level": 84, "category": "Threat Intelligence" },
+    { "name": "ITSM / SLA Workflow", "level": 70, "category": "Operations Integration" },
+    { "name": "Documentation & Reporting", "level": 90, "category": "Communication" }
+  ],
+  "projects": [
+    {
+      "id": "siem-microsoft-sentinel",
+      "title": "Using Microsoft Sentinel",
+      "description": "Built SIEM-focused evidence demonstrating data onboarding, detection use cases, and analyst investigation workflow.",
+      "status": "completed",
+      "category": "SIEM",
+      "technologies": ["Microsoft Sentinel", "KQL", "SOC Workflow"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "phishing-email-analysis",
+      "title": "Analysing a Phishing Email",
+      "description": "Investigated suspicious sender patterns, malicious URLs, urgent social engineering language, and authentication anomalies.",
+      "status": "completed",
+      "category": "Incident Triage",
+      "technologies": ["Header Analysis", "Email Triage", "IoC Extraction"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "suricata-wireshark-triage",
+      "title": "Using Suricata and Wireshark",
+      "description": "Correlated IDS alerts with packet captures to identify suspicious network behavior and validate incident severity.",
+      "status": "completed",
+      "category": "Incident Triage",
+      "technologies": ["Suricata", "Wireshark", "PCAP Analysis"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "incident-priority-breakdown",
+      "title": "Incident Priority Breakdown",
+      "description": "Defined practical priority models to support SOC escalation based on impact, urgency, and confidence level.",
+      "status": "completed",
+      "category": "Incident Response",
+      "technologies": ["SOC Triage Matrix", "Severity Model", "Escalation"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "email-forensics-deep-dive",
+      "title": "Email Forensics Deep Dive",
+      "description": "Traced phishing origin through header fields and received paths, validated SPF/DKIM/DMARC, and assessed malicious artifacts.",
+      "status": "ongoing",
+      "progress": 65,
+      "category": "Email Forensics",
+      "technologies": ["SPF", "DKIM", "DMARC", "Header Forensics"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "threat-intel-enrichment",
+      "title": "Threat Intelligence Enrichment",
+      "description": "Mapped phishing indicators to known campaigns and attack patterns using external intelligence sources.",
+      "status": "ongoing",
+      "progress": 60,
+      "category": "Threat Intelligence",
+      "technologies": ["IoC Enrichment", "Campaign Correlation", "MITRE ATT&CK"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "itsm-to-siem-integration",
+      "title": "ITSM to SIEM Integration",
+      "description": "Documenting how Zendesk tickets, SLA workflows, and SOC detections connect for measurable incident handling.",
+      "status": "planned",
+      "category": "ITSM",
+      "technologies": ["Zendesk", "SLA", "SIEM Integration"],
+      "image": "",
+      "link": null,
+      "github": null
+    },
+    {
+      "id": "networking-fundamentals-labs",
+      "title": "Networking Fundamentals Labs",
+      "description": "Hands-on projects with Nmap, Nessus, honeypot/canary controls, and Cisco Packet Tracer for foundational SOC skills.",
+      "status": "planned",
+      "category": "Networking Fundamentals",
+      "technologies": ["Nmap", "Nessus", "Canary Token", "Cisco Packet Tracer"],
+      "image": "",
+      "link": null,
+      "github": null
+    }
+  ],
+  "certificates": [
+    {
+      "id": "phishing-detection-guide",
+      "title": "Phishing Email Detection Guide",
+      "issuer": "Portfolio Evidence",
+      "date": "2026",
+      "image": "",
+      "credentialUrl": null
+    },
+    {
+      "id": "email-forensics-checklist",
+      "title": "Email Forensics Checklist",
+      "issuer": "Portfolio Evidence",
+      "date": "2026",
+      "image": "",
+      "credentialUrl": null
+    },
+    {
+      "id": "threat-intel-template",
+      "title": "Threat Intelligence Enrichment Template",
+      "issuer": "Portfolio Evidence",
+      "date": "2026",
+      "image": "",
+      "credentialUrl": null
+    }
+  ],
+  "contact": {
+    "heading": "Connect with me",
+    "subheading": "If you are hiring for SOC or junior cybersecurity roles, send me a message and I will share relevant evidence packs.",
+    "submitEndpoint": null
+  }
+}
